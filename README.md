@@ -9,7 +9,7 @@
 <p align="center"> ☕	An HTTP request</p>
 
 
-### Pré-requisitos
+### Prerequisites
 
 Before starting, you will need to have the following tools installed on your machine:
 [JVM](https://www.oracle.com/java/technologies/downloads/).
@@ -24,7 +24,7 @@ $ git clone <https://github.com/Ana204/api_imdb_movies.git>
 $ In option 'Run Java'
 ```
 
-### 🛠 Tecnologia
+### 🛠 Technology
 
 The following tool was used in building the project:
 
